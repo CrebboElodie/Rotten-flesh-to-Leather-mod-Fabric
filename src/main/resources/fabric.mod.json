@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "rotten_flesh_to_leather",
+  "version": "1.0.0",
+  "name": "Rotten Flesh to Leather",
+  "description": "A simple mod that makes rotten flesh less useless by allowing smelting into leather",
+  "authors": [
+    "CrebboElodie"
+  ],
+  "contact": {
+    "homepage": "https://github.com/CrebboElodie",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "icon": "assets/rotten_flesh_to_leather/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.rottenfleshtoleather.RottenFleshToLeatherMod"
+    ],
+    "client": [
+      "net.mcreator.rottenfleshtoleather.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

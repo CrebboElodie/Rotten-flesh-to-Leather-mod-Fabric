@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "misc",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.ROTTEN_FLESH"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.LEATHER"
+    },
+    "name": "rot_leather",
+    "namespace": "minecraft"
+  }
+}

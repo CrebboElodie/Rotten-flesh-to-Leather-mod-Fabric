@@ -1,0 +1,42 @@
+{
+  "mod_elements": [
+    {
+      "name": "RotLeather",
+      "type": "recipe",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rot_leather"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rotten_flesh_to_leather",
+    "modName": "Rotten Flesh to Leather",
+    "version": "1.0.0",
+    "description": "A simple mod that makes rotten flesh less useless by allowing smelting into leather",
+    "author": "CrebboElodie",
+    "websiteURL": "https://github.com/CrebboElodie",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "rotten_flesh",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.1",
+    "credits": "Created using MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.rottenfleshtoleather",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200236316
+}
