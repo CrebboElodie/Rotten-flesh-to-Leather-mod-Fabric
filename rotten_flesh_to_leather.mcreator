@@ -25,7 +25,7 @@
     "description": "A simple mod that makes rotten flesh less useless by allowing smelting into leather",
     "author": "CrebboElodie",
     "websiteURL": "https://github.com/CrebboElodie",
-    "license": "MIT License",
+    "license": "GPL-3.0 License",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "rotten_flesh",
